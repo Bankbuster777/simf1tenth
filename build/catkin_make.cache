@@ -1,0 +1,2 @@
+amcl:f1tenth_simulator:labs_f1tenth/cartographer_config/f110_description:labs_f1tenth/lab2/code:labs_f1tenth/lab3/code:labs_f1tenth/lab4/code:labs_f1tenth/lab5/code:labs_f1tenth/lab6/code:labs_f1tenth/lab7/code:labs_f1tenth/waypoint_logger:particle_filter-melodic
+-DCATKIN_DEVEL_PREFIX=/home/dawgs/dawgs_car/sim_f1tenth_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dawgs/dawgs_car/sim_f1tenth_ws/install -G Unix Makefiles

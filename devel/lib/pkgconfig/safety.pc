@@ -1,0 +1,8 @@
+prefix=/home/dawgs/dawgs_car/sim_f1tenth_ws/devel
+
+Name: safety
+Description: Description of safety
+Version: 0.0.0
+Cflags: -I/home/dawgs/dawgs_car/sim_f1tenth_ws/src/labs_f1tenth/lab2/code/include
+Libs: -L${prefix}/lib 
+Requires: 

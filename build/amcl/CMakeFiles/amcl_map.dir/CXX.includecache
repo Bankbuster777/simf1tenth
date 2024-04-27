@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dawgs/dawgs_car/sim_f1tenth_ws/src/amcl/include/amcl/map/map.h
+stdint.h
+-
+
+/home/dawgs/dawgs_car/sim_f1tenth_ws/src/amcl/src/amcl/map/map_cspace.cpp
+queue
+-
+math.h
+-
+stdlib.h
+-
+string.h
+-
+amcl/map/map.h
+/home/dawgs/dawgs_car/sim_f1tenth_ws/src/amcl/src/amcl/map/amcl/map/map.h
+

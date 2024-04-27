@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/opt/ros/noetic/include/**",
+                "/home/dawgs/dawgs_car/sim_f1tenth_ws/src/f1tenth_simulator/include/**",
+                "/home/dawgs/dawgs_car/sim_f1tenth_ws/src/labs_f1tenth/lab7/code/include/**",
+                "/home/dawgs/dawgs_car/sim_f1tenth_ws/src/labs_f1tenth/lab2/code/include/**",
+                "/home/dawgs/dawgs_car/sim_f1tenth_ws/src/labs_f1tenth/lab5/code/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}
